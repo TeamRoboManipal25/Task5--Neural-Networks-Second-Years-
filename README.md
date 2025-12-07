@@ -45,5 +45,5 @@ Using this dataset, a feed-forward Artificial Neural Network (ANN) is built to p
 
 ---
 
-## **5.References **
+## **5.References**
 - https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1
